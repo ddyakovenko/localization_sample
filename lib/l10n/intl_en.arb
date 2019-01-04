@@ -1,0 +1,23 @@
+{
+  "@@last_modified": "2018-12-03T12:20:11.543117",
+  "title": "English title",
+  "@title": {
+    "description": "common",
+    "type": "text",
+    "placeholders": {}
+  },
+
+   "count": "Count",
+      "@count": {
+        "description": "common",
+        "type": "text",
+        "placeholders": {}
+      },
+
+   "increment": "Increment",
+       "@count": {
+           "description": "common",
+             "type": "text",
+             "placeholders": {}
+       }
+}
